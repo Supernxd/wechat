@@ -1,0 +1,30 @@
+{
+  "name": "wechat",
+  "version": "1.0.0",
+  "description": "微信公众号功能",
+  "main": "index.js",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/koa-bodyparser": "^4.3.0",
+    "@types/moment": "^2.13.0",
+    "axios": "^0.19.2",
+    "koa": "^2.12.1",
+    "koa-bodyparser": "^4.3.0",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Supernxd/wechat.git"
+  },
+  "author": "nxd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Supernxd/wechat/issues"
+  },
+  "homepage": "https://github.com/Supernxd/wechat#readme"
+}
